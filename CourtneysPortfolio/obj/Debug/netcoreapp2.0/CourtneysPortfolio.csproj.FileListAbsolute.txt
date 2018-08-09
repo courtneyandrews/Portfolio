@@ -1,0 +1,11 @@
+C:\Users\Enoch\Desktop\Work Folder\Portfolio 3\CourtneysPortfolio\bin\Debug\netcoreapp2.0\CourtneysPortfolio.deps.json
+C:\Users\Enoch\Desktop\Work Folder\Portfolio 3\CourtneysPortfolio\bin\Debug\netcoreapp2.0\CourtneysPortfolio.runtimeconfig.json
+C:\Users\Enoch\Desktop\Work Folder\Portfolio 3\CourtneysPortfolio\bin\Debug\netcoreapp2.0\CourtneysPortfolio.runtimeconfig.dev.json
+C:\Users\Enoch\Desktop\Work Folder\Portfolio 3\CourtneysPortfolio\bin\Debug\netcoreapp2.0\CourtneysPortfolio.dll
+C:\Users\Enoch\Desktop\Work Folder\Portfolio 3\CourtneysPortfolio\obj\Debug\netcoreapp2.0\CourtneysPortfolio.csprojAssemblyReference.cache
+C:\Users\Enoch\Desktop\Work Folder\Portfolio 3\CourtneysPortfolio\obj\Debug\netcoreapp2.0\CourtneysPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\Enoch\Desktop\Work Folder\Portfolio 3\CourtneysPortfolio\obj\Debug\netcoreapp2.0\CourtneysPortfolio.AssemblyInfoInputs.cache
+C:\Users\Enoch\Desktop\Work Folder\Portfolio 3\CourtneysPortfolio\obj\Debug\netcoreapp2.0\CourtneysPortfolio.AssemblyInfo.cs
+C:\Users\Enoch\Desktop\Work Folder\Portfolio 3\CourtneysPortfolio\bin\Debug\netcoreapp2.0\CourtneysPortfolio.pdb
+C:\Users\Enoch\Desktop\Work Folder\Portfolio 3\CourtneysPortfolio\obj\Debug\netcoreapp2.0\CourtneysPortfolio.dll
+C:\Users\Enoch\Desktop\Work Folder\Portfolio 3\CourtneysPortfolio\obj\Debug\netcoreapp2.0\CourtneysPortfolio.pdb
